@@ -11,7 +11,7 @@ const malibu = {
   tanning: "Tuining: " + "mega tuining",
   discount: "Chegirma yoki sovg'a: " + "++trablazer",
   price: "Narxi: " + "malibu = 99.990(sum))",
-  address: "Olib ketish manzili: " + "Amerika",
+  address: "Olib ketish manzili: " + "Amerika", 
   planeFinancing: "Rastamochka + samalyotga ketadigan pul: " + "9 999 9999.990$"
 }
 
