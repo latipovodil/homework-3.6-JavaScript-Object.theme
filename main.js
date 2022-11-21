@@ -16,7 +16,7 @@ const malibu = {
 }
 
 
-let maqsad = prompt("Siz mashina sotib olmoqchimisiz yoki sotmoqchimisiz(sotaman=0; olaman:hoxlagan raqam yoki harf)")
+let maqsad = prompt("Siz mashina sotib olmoqchimisiz yoki sotmoqchimisiz(sotaman: 0; olaman: 1)")
 
 if (maqsad == true) {
   document.write(malibu.model + "<br>" + malibu.color + "<br>" + malibu.number + "<br>" + malibu.condition + "<br>" + malibu.motor.condition + "<br>" + malibu.motor.speed + "<br>" + malibu.petrol + "<br>" + malibu.tanning + "<br>" + malibu.discount + "<br>" + malibu.price + "<br>" + malibu.address + "<br>" + malibu.planeFinancing)
